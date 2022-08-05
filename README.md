@@ -18,6 +18,10 @@ pip install numpy
 pip install pandas
 pip install keras
 pip install tensorflow
+pip install scipy
+pip install regex
+pip install nltk
+pip install tensorboard
 ```
 ## Dataset
 The dataset and pre-trained model can't be attached because of size constraints. You can download the ASAP Kaggle dataset on the Kaggle website [here](https://www.kaggle.com/competitions/asap-aes/data) and the pretrained embeddings should be downloaded following the instructions for question 5 in [this repository](https://github.com/nusnlp/nea/blob/master/FAQ.md).
